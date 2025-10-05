@@ -1,6 +1,6 @@
 # 💻 IP Project – Group Work
 
-This is a group project for the **Internet Programming (IP)** class, developed using **HTML**, **CSS**, and **JavaScript**.  
+This is a group project for the **Internet Programming (IP)** class, will be developed using **HTML**, **CSS**, and **JavaScript**.  
 The project demonstrates our understanding of front-end web development concepts, teamwork, and version control with Git and GitHub.
 
 ---
@@ -19,7 +19,7 @@ The project demonstrates our understanding of front-end web development concepts
 
 ## 🧩 About the Project
 
-This project is a simple web application built to practice the fundamentals of **web design and interactivity** using:
+This project is a simple web application that will be built  practice the fundamentals of **web design and interactivity** using:
 - HTML for structure  
 - CSS for styling  
 - JavaScript for functionality  
