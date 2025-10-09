@@ -12,7 +12,6 @@ The project aims to design and develop a simple **Job Posting Website** that all
 | Aelaf Anteneh | ETS 0102/15 | 
 | Semahegn Samuel | ETS 1227/15 |
 | Addis Shiferaw | ETS 0009/16 | 
-| Azeb Yirga | ETS 0215/16 | 
 | Addisalem Mengistu | ETS 0101/16 | 
 
 ---
